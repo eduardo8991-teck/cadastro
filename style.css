@@ -1,12 +1,12 @@
 body{
 font-family: Arial, sans-serif;
-background: #ffffff;
+background: #8b0be0d3;
 }
 
 .container{
 width: 500px;
 margin: 50px auto;
-background: white;
+background: rgba(255, 255, 255, 0.774);
 padding: 20px;
 border-radius: 10px;
 }
@@ -19,14 +19,14 @@ margin: 5px 0;
 
 button{
 padding: 10px 20px;
-background: #007bff;
+background: #000000;
 color: white;
 border: none;
 cursor: pointer;
 }
 
 button:hover{
-background: #0056b3;
+background: linear-gradient(#2f00ff, #ff0000);
 }
 
 li{
